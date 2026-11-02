@@ -1,4 +1,4 @@
-# A7 · Problèmes et conflits · marche 7 : Brancher l'IA sur ses outils
+# A7 · Problèmes et conflits · compétence 7 : Brancher l'IA sur ses outils
 
 ## A7-e · Expérience · avec ou sans connecteur
 

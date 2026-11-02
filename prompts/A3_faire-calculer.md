@@ -1,4 +1,4 @@
-# A3 · Le planning · marche 3 : Faire calculer
+# A3 · Le planning · compétence 3 : Faire calculer
 
 ## A3-e1 · Expérience · le calcul de tête
 

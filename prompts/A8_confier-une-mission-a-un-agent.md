@@ -1,4 +1,4 @@
-# A8 · Suivi et avancement · marche 8 : Confier une mission à un agent
+# A8 · Suivi et avancement · compétence 8 : Confier une mission à un agent
 
 ## A8-b · La mission de l'agent
 

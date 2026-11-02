@@ -1,4 +1,4 @@
-# A6 · Lancement et gestion des changements · marche 6 : Se construire un assistant
+# A6 · Lancement et gestion des changements · compétence 6 : Se construire un assistant
 
 ## A6-e · Expérience · avec ou sans consignes
 

@@ -1,4 +1,4 @@
-# A2 · La WBS (les lots) · marche 2 : Enchaîner
+# A2 · La WBS (les lots) · compétence 2 : Enchaîner
 
 ## A2-e · Expérience · le test de l'oubli
 
@@ -8,7 +8,7 @@ projet, la date du déménagement et l'exigence du sponsor. Pour chaque réponse
 dis-moi si tu en es sûr.
 ```
 
-## A2 · La WBS
+## A2-a · La WBS
 
 ```
 Rôle : tu es un planificateur de projet expérimenté.
