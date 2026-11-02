@@ -1,4 +1,4 @@
-# A1 · Charte et parties prenantes · marche 1 : Converser
+# A1 · Charte et parties prenantes · compétence 1 : Converser
 
 ## A1-e1 · Expérience · le prompt naïf
 

@@ -1,4 +1,4 @@
-# A9 · Clôture · marche 9 : Capitaliser et gouverner
+# A9 · Clôture · compétence 9 : Capitaliser et gouverner
 
 ## A9-a · Clôture, retour d'expérience et skill v2
 

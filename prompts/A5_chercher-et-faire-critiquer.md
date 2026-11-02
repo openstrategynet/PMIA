@@ -1,4 +1,4 @@
-# A5 · Risques et communication · marche 5 : Chercher et faire critiquer
+# A5 · Risques et communication · compétence 5 : Chercher et faire critiquer
 
 ## A5-e1 · Expérience · la question orientée
 

@@ -1,4 +1,4 @@
-# A4 · Ressources et budgets · marche 4 : Choisir son modèle
+# A4 · Ressources et budgets · compétence 4 : Choisir son modèle
 
 ## A4-b · Le choix du déménageur (et le mini-benchmark)
 
